@@ -44,3 +44,5 @@ void comparaEmpresaInseridaComEmpresaNaLista(){
 }
 
 
+//O teste precisa de alguns ajustes, ele foi feito para analisar a classe Main e avaliar se os candidatos cadastrados estão sendo inseridos adequadamente
+//na lista.
